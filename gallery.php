@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		 <title>task</title>
-		 <meta charset="utf-8">
-		 <link rel="stylesheet" href="main.css" />
-	</head>
+<head>
+   <title>task</title>
+   <meta charset="utf-8">
+   <link rel="stylesheet" href="main.css" />
+</head>
 
 <body>
  	
