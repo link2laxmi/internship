@@ -1,0 +1,29 @@
+
+.header{ 
+	background-color:#a10326; width:50%;
+}
+.airtcle{
+	text-align:center; 
+}
+h1{
+	margin:5px;
+	padding:3px;
+	color:red;
+	text-align:center;
+	width:50%;
+	text-decoration:underline;
+
+}
+h2{
+	color:red;
+	text-align:center;
+	width:50%;
+	text-decoration:underline;
+}
+p{
+	text-align:center;
+	width:50%;
+	text-align:justify;
+	font-family: Arial, Helvetica, Sans Serif;
+	padding: 3px;     
+}
