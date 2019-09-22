@@ -67,33 +67,34 @@ footer{
 	background-color:#4d4a4a
 }
 	
-	@media (max-width:480px)
+@media (max-width:480px)
 	{
 		
-			.container{
-				width:100%;
-			}
+.container{
+	width:100%;
+ }
 
 			
-			 .logo img{
+.logo img{
 
 
-				float:none;
-				text-align:center;
-			}
+float:none;
+text-align:center;
+}
 
-			nav, nav ul, nav ul li, nav ul li a{
-				width:100%;
-				text-align:center;
-				color:black;
-				font-size: 25px;
-			}
-			.left, .right{
-				float:none;width:100%; padding:5px;
-			}
+nav, nav ul, nav ul li, nav ul li a{
+width:100%;
+text-align:center;
+color:black;
+font-size: 25px;
+}
+.left, .right{
+float:none;width:100%; padding:5px;
+}
+}
 
 
 
-		}
-	
-	 
+
+
+

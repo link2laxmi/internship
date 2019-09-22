@@ -1,6 +1,4 @@
 *{
-
-
 	margin:0px;
 	padding:0px;
 }
@@ -11,10 +9,7 @@ body{
 	box-sizing:border-box;
 	background color:white;
 }
-
-
-}
-}.wrap{
+.wrap{
 	width:100%; 
 		}
 .wrapper{
@@ -22,92 +17,82 @@ body{
 	height:55px;
 	background-color: black;
 	}
-
-
 header{
 	background-color: black;
-	
+}
 
-
-	
-
-	}
-	h1{
-		color:white;
+h1{
+  color:white;
 	}
 
 .left{
     float:left;
     width:50%;
+   }
+  .right{
+	float:right;
+	width:50%;
+  }
+   nav{
+	 float:right;
 	}
-	.right{
-		float:right;
-		width:50%;
-	}
-	 nav{
-		float:right;
-	}
-	nav ul{
+nav ul{
 
-		list-style:none;
-	}
-	nav ul li {
-		float:left;
-		padding-top:11px;
-		padding-right:50px;
+	list-style:none;
+ }
+nav ul li {
+	float:left;
+	padding-top:11px;
+	padding-right:50px;
 
-
+}
+nav ul li a{
+   color:white;
+   text-decoration: none;
+   padding:10px 10px;
 	}
-	nav ul li a{
-		color:white;
-		text-decoration: none;
-		padding:10px 10px;
+.box{
+   height:300px;
+  background-color: green;
+  width:100%;
 	}
-	.box{
-		height:300px;
-		background-color: green;
-		width:100%;
-	}
-	.box
+.box
 	{
-		text-align: center;
-        padding-top: 151px;
-        color: white;
-		} 
-	.banner{
-			width:100%;
-			height:30px;
-			color:black;
-			background-color: #e6e0e0;
-			text-align:center;
-			padding-top:5px;
+   text-align: center;
+   padding-top: 151px;
+   color: white;
+	} 
+.banner{
+   width:100%;
+   height:30px;
+   color:black;
+   background-color: #e6e0e0;
+   text-align:center;
+   padding-top:5px;
 		}
-   .ban{
+.ban{
    	width:100%;
-   
-   	
    }
-   .clc{
+ .clc{
    	clear:both;
-   }
-   
-  
-   .lefts{
+  }
+
+.lefts{
    	width:50%;
    	float:left;
    	 } 
-  .first{
+.first{
   	width:45%;
   	float:left;
   	text-align:justify;
   }
-  .second{
+.second{
   	float:right;
   	width:45%;
   	text-align:justify;
   	padding-right:25px;
   }
-  .rights{
+.rights{
 	width:50%;
 	float:right;
 
@@ -132,9 +117,6 @@ text-align:center;
 p{
 	padding-top:5px;
 }
-
-
-
 .container{
 
   width:100%;
@@ -143,70 +125,72 @@ p{
   text-align:justify;
   }
 
-  h5{
+ h5{
   	text-align:center; 
   	padding-top:5px;
   }
-  h6{
+ h6{
   	text-align:justify;
   	text-align:center;
 
   }
-  .boxes{
+.boxes{
   	width:100%;
   	margin-bottom: 10px;
   }
-  .folder{
+.folder{
   	width:40%;
   	float:left;
   	margin-left:90px;
   	margin-top:28px;
   }
-  .green{
+.green{
   	width:47%;
   	float:left;
   	height:25%;
   	background-color:green;
   }
-  .yellow{
+.yellow{
   	width:47%;
   	float:right;
   	height:25%;
   	background-color:yellow;
   	 }
-  	 .folders{
+ .folders{
   	 width:45%;
   	float:right;
   	margin-right:90px;
   	margin-top:28px;
 
   }
-  .red{
+
+ .red{
   	width:48%;
   	float:left;
   	background-color:red;
    height:25%;
   }
-  .blue{
+
+.blue{
   	width:47%;
   	float:right;
   	background-color:blue;
   	height:25%
   }
-  h3
+ h3
   {
   	text-align:center;
   	
   	padding-top:50px;
   }
- .font{
+.font{
  	background-color: #e6e0e0;
  	width:100%;
  	padding-bottom:20px;
  	margin-top:40px;
  } 
 
- footer{
+footer{
  	width:100%;
  	background-color: green;
  	height:30px;
