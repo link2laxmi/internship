@@ -14,18 +14,20 @@
  		 		<nav>
  		 			<ul>
  		 				<li><a href="#">home</a></li>
- 		 				<li><a href="#">about</a></li>
- 		 				<li><a href="task8.php">gallery</a></li>
+ 		 				<li><a href="">about</a></li>
+ 		 				<li><a href="image.php">gallery</a></li>
  		 				<li><a href="#">career</a></li>
  		 				<li><a href="#">contact</a></li>
  		 			</ul>
  		 		</nav>
  		 	</header>
  		 	<div class="box">
- 		 		<img src="img/project.jpeg">
+ 		 		<a href="image.php">
+					<img src="img/project.jpeg">
+				</a>
  		 		</div>
  		 		<div class="image">
- 		 			<a href="image.php"><h1 style="text-align:center; font-size:35px;">image<h1></a></div>
+ 		 			<a href="image.php"><h1 style="text-align:center; font-size:35px;"><h1></a></div>
  		 		</div>
  		 	
  		 	<div class="content">

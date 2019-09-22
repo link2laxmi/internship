@@ -5,14 +5,28 @@
 	
 </head>
  <body>
+ 	<div>
  	<div class="box">
- 		<img src="img/project.jpeg">
- 		<img src="img/sochware.gif">
  		
+ 		
+ 		
+ 		<a href="img.php"><img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
+ 		<img src="img/it.jpeg">
  		<img src="img/it.jpeg">
  	
- 		<img src="img/sts.jpg">
+ 		<img src="img/sts.jpg"></a>
  		
  	</div>
+ 	<div>
  </body>
  </html>
