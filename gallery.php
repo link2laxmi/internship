@@ -31,7 +31,7 @@
  		 	<a href="image.php"><h1 style="text-align:center; font-size:35px;"></h1>>
  		 	</a>	
  		</div>
-   </div>	 	
+    </div>	 	
    <div class="content">
  	    <div class="left">
  		    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea ipsam</p>
