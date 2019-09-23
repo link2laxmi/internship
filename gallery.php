@@ -3,7 +3,7 @@
 <head>
    <title>task</title>
    <meta charset="utf-8">
-   <link rel="stylesheet" href="main.css">
+   <link rel="stylesheet" href="main.css" />
 </head>
 
 <body>
@@ -78,4 +78,4 @@
  	    </footer>
  	</div>
  </body>
-</html>
+	
