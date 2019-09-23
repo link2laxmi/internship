@@ -3,25 +3,24 @@
 <head>
    <title>task</title>
    <meta charset="utf-8">
-   <link rel="stylesheet" href="main.css" />
+   <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
- 	
  	<div class="container">
  		<header>
  		 	<div class="logo">
  		 		<img src="img/sochware.gif">
  		 	</div>
- 		 		<nav>
- 		 			<ul>
- 		 				<li><a href="#">home</a></li>
- 		 				<li><a href="">about</a></li>
- 		 				<li><a href="image.php">gallery</a></li>
- 		 				<li><a href="#">career</a></li>
- 		 				<li><a href="#">contact</a></li>
- 		 			</ul>
- 		 		</nav><
+	 		<nav>
+	 			<ul>
+	 				<li><a href="#">home</a></li>
+	 				<li><a href="">about</a></li>
+	 				<li><a href="image.php">gallery</a></li>
+	 				<li><a href="#">career</a></li>
+	 				<li><a href="#">contact</a></li>
+	 			</ul>
+	 		</nav>
  		</header>
  		<div class="box">
  		    <a href="image.php">
@@ -30,21 +29,19 @@
  		</div>
  		<div class="image">
  		 	<a href="image.php"><h1 style="text-align:center; font-size:35px;"></h1>>
- 		 	</a>
- 		 	
+ 		 	</a>	
  		</div>
-   </div>
- 		 	
+   </div>	 	
    <div class="content">
  	    <div class="left">
- 		    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea ipsam
+ 		    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea ipsam</p>
  		    <br> 
- 		    quia dolores ad pariatur fuga quam a placeat consequatur, soluta eaque 
+ 		    <p>quia dolores ad pariatur fuga quam a placeat consequatur, soluta eaque </p>
  		    <br>
- 		    minus praesentium, porro, beatae quis quisquam corporis illum ipsum
+ 		    <p>minus praesentium, porro, beatae quis quisquam corporis illum ipsum</p>
  		</div>
  		<div class="right">
- 		    <table border="1"; cellspacing=10px;cellpadding=0; width:100%;>
+ 		    <table border="1" cellspacing="10px"cellpadding="0" width:100%>
  		 	    <tr>
 					<td>id</td>
 					<td>name</td>
@@ -77,5 +74,6 @@
  	    <footer>
  	    </footer>
  	</div>
- </body>
+</body>
+</html>
 	
